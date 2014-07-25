@@ -7,6 +7,7 @@ We developed a software to control or switch the slides by hand movement. The ha
 
 Three main algorithms are applied, including:
 
+<<<<<<< HEAD
 1. Haar Features
 
 2. Adaboost Algorithm
@@ -14,3 +15,6 @@ Three main algorithms are applied, including:
 3. Cascading Multiple Classifier
 
 In this git folder, you can find the project report where you can find more detailed information and the source code (SliTran.cpp). 
+=======
+In this folder, you can find the project report (Project_Report.pdf)and the source code. 
+>>>>>>> ade606064d62b46a81b31da5fa49c08a56024a2c
