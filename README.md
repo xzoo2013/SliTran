@@ -7,4 +7,4 @@ We developed a software to switch the slides by hand movement during presentatio
 
 This software was developed under the framework of OpenCV and written in C++. 
 
-In this folder, you can find the project report and the source code. 
+In this folder, you can find the project report (Project_Report.pdf)and the source code. 
